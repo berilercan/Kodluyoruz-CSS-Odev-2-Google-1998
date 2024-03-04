@@ -1,0 +1,47 @@
+.logo {
+    text-align: -webkit-center;
+}
+
+.container {
+    width: 1370px;
+    margin: auto;
+    text-align: -webkit-center;
+}
+
+.search {
+    background-color: rgb(235, 235, 235);
+    margin-bottom: 2px;
+
+}
+
+.special-search {
+    width: 37%;
+    background-color: #7EE5DA;
+    float: left;
+    padding: 12px 0;
+    margin-right: 2px;
+}
+
+.bar {
+    width: 19%;
+    background-color: #70CCC2;
+    float: left;
+    padding: 9px 0;
+    margin-right: 2px;
+    font-size: small;
+}
+
+.get-google {
+    width: 43.6%;
+    background-color: #62B3AA;
+    float: left;
+    clear: right;
+
+}
+
+.footer {
+    margin-top: 7%;
+    text-align: center;
+    
+}
+
